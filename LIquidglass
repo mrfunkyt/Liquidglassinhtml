@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Faketravel</title>
+    <title>Liquidglass</title>
+    <!--This is your favicon--->
     <link rel="icon" type="image/jpg" href="favicon.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
@@ -208,10 +209,10 @@ footer{
 <header>
    <nav>
         <ul class="nav_links">
-            <li><a href="project2.html">Home</a></li>
-            <li><a href="aboutus.html">About</a></li>
+            <li><a href="something.html">Home</a></li>
+            <li><a href="index.html">About</a></li>
             <li><a href="feedback.html">Be in touch</a></li>
-            <li><a href="refundpl.html">Refund policy </a></li>
+            <li><a href="antthing.html">Refund policy </a></li>
         </ul>
    </nav>
 </header> 
@@ -219,8 +220,6 @@ footer{
 <main>
       <section class="hero">
              <div class="hero-content">
-                <h1>✈️  Faketravel</h1>
-                <p>Explore the world with airtravel!</p>
                 <a href="#place" class="btn">Explore Now !</a>
             </div>
       </section>
@@ -228,31 +227,31 @@ footer{
  <h2>Popular Destinations</h2>
  <section class="place" id="place">
         <div class="destination">
-            <img src="giza.jpg" alt="Giza">
-            <h3>Pyramids of Giza</h3>
-            <p>The ancient pyramids of Giza, known for their impressive scale and rich history.</p>
-            <a href="giza.html" class="btn">Book Now</a>
+            <img src="example.jpg" alt="example">
+            <h3>example</h3>
+            <p>example</p>
+            <a href="example.html" class="btn">Book Now</a>
         </div>
         <div class="destination">
-            <img src="paris.jpg" alt="Paris">
+            <img src="example.jpg" alt="example">
             <h3>Paris</h3>
-            <p>The city of love and lights, known for its iconic landmarks and rich culture.</p>
+<p>Example</p>
             <a href="paris.html" class="btn">Book Now</a>
         </div>
         <div class="destination">
-            <img src="new york.jpg" alt="New York">
+            <img src="example" alt="example">
             <h3>New York</h3>
-            <p>The city that never sleeps, offering a vibrant mix of culture, entertainment, and business.</p>
-            <a href="new york.html" class="btn">Book Now</a>
+            <p>example</p>
+            <a href="example.html" class="btn">example</a>
         </div>
 </section>
 <footer>
     <ul id="footer">
-        <li>copyright &copy; 2026 Faketravel. All rights reserved.</li>
-        <li><a href="feedback.html">Provide Feedback</a></li>
+        <li>copyright &copy; 2026 example All rights reserved.</li>
+        <li><a href="example.html">Provide Feedback</a></li>
     </ul>
 </footer>
-
+<!--loading screen--->
 <script>
     const startTime = Date.now();
 
